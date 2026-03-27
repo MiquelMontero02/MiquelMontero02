@@ -1,7 +1,9 @@
 ## Hi, i'm Miquel and welcome to my Personal Page!
 
+I'm a backend developer, trying to improve and increase my baseknowledge in cloud enviorment and practicing with some simple AI projects and models!
 
-## 🌐 Socials:
+
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miquel-ángel-montero-pazmiño-5ab5412b4/)
 
 # 💻 Tech Stack:
