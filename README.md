@@ -1,6 +1,6 @@
 ## Hi, i'm Miquel and welcome to my Personal Page!
 
-I'm a backend developer, trying to improve and increase my baseknowledge in cloud enviorment and practicing with some simple AI projects and models!
+I'm a backend developer, trying to improve and increase my knowledge base in cloud enviorment and SRE Tasks like learning about telemetry, observability and IaaC. Also into in AI world deploying and testing all news projects
 
 
 ## 🌐 Socials
